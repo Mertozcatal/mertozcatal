@@ -29,15 +29,14 @@
 ---
 
 
-## 📈 GitHub İstatistiklerim
+## Favori Teknolojilerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertozcatal&show_icons=true&theme=dark&hide_border=true" alt="GitHub İstatistikleri" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertozcatal&langs_count=5&_
-
+- Flutter  
+- Dart  
+- Swift  
+- Spring Boot  
+- Python
+   
 ---
 
 
