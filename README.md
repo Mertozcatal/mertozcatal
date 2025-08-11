@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben MERT ÖZÇATAL!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/flutter/flutter/master/dev/tools/dash/dash.png" width="150" alt="Flutter Logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDl6MYXHMPJg-VkRIL3oEKwpgSQ9JkUJxWuQ&s" width="150" alt="Flutter Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" width="150" alt="Swift Logo" />
 </div>
 
