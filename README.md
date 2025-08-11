@@ -36,8 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertozcatal&langs_count=5&theme=dark&hide_border=true&layout=compact" alt="En Çok Kullanılan Diller" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertozcatal&langs_count=5&_
 
 ---
 
