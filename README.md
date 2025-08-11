@@ -32,10 +32,15 @@
 ## 📈 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=dark&hide_border=true" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mertozcatal&show_icons=true&theme=dark&hide_border=true" alt="GitHub İstatistikleri" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertozcatal&langs_count=5&theme=dark&hide_border=true&layout=compact" alt="En Çok Kullanılan Diller" />
 </div>
 
 ---
+
 
 ## 📫 Bana Ulaş
 
